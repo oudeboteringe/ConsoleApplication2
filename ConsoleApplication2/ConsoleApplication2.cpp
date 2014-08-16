@@ -9,7 +9,8 @@ using namespace std;
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	cout << "Console2";
+	cout << "Console2" << endl;
+	cout << "Additional stement";
 	_getch();
 	return 0;
 }
